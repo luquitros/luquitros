@@ -11,9 +11,3 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VSCode" />
   </div>
     
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=00000000&border=1E1B21&ring=E966A0&fire=E966A0&currStreakLabel=F8EDFF&sideLabels=F8EDFF&currStreakNum=F8EDFF&dates=F8EDFF&sideNums=F8EDFF" alt="GitHub Streak" />
-  </a>
-  
-</div>
-
