@@ -17,4 +17,5 @@
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux Security" />
 </div>
