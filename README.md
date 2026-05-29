@@ -1,3 +1,14 @@
+  ,     #_
+   ~\_  ####_        
+  ~~  \_#####\
+  ~~     \###|
+  ~~       \#/ ___   
+   ~~       V~' '->
+    ~~~         /
+      ~~._.   _/
+         _/ _/
+       _/m/'
+
 
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
